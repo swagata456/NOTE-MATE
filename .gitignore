@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+
+# Environment secrets
+.env
+backend/.env
+frontend/.env
+
+# Build output (kept in this project because the backend serves frontend/dist)
+# frontend/dist/
+
+# Logs
+*.log
+npm-debug.log*
